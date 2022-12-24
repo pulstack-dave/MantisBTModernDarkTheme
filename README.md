@@ -29,3 +29,11 @@ $g_status_colors = array( 'new' => '#e57373', # red,
 ```
 
 Each user can then enable the dark theme in Account -> Preferences
+
+To change the default Accent color, edit files/ModernDarkTheme.css and change the value of `accent`:
+
+```css
+:root {
+  --accent: #267122;
+}
+```
