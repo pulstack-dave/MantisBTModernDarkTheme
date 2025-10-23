@@ -1,5 +1,4 @@
 body,
-<<<<<<< Updated upstream
 html {
   background-color: #22252a !important;
   color: #ccc;
@@ -95,12 +94,12 @@ html {
 .btn.btn-white,
 .btn-primary,
 .btn.btn-white.btn-primary {
-  background-color: #5b626f !important;
-  border: 0 transparent !important;
-  color: #fafafa !important;
-  padding: 3px 12px !important;
-  border-radius: 15px !important;
-=======
+    background-color: #5b626f !important;
+    border: 0 transparent !important;
+    color: #fafafa !important;
+    padding: 3px 12px !important;
+    border-radius: 15px !important;
+}
 html
 {
 	background-color: #22252a !important;
@@ -205,7 +204,6 @@ html
 	color:            #fafafa !important;
 	padding:          3px 12px !important;
 	border-radius:    15px !important;
->>>>>>> Stashed changes
 }
 
 .btn.btn-white.active,
@@ -214,7 +212,6 @@ html
 .btn.btn-white:hover,
 .btn-primary:hover,
 .btn.btn-white.btn-primary:hover,
-<<<<<<< Updated upstream
 .btn-primary.focus,
 .btn-primary:focus {
   background-color: orange !important;
@@ -223,8 +220,8 @@ html
 
 .btn-primary.no-hover:active,
 .btn-primary.no-hover:hover {
-  background-color: #16181c !important;
-=======
+    background-color: #16181c !important;
+}
 .btn-primary.focus, .btn-primary:focus
 {
 	background-color: orange !important;
@@ -234,7 +231,6 @@ html
 .btn-primary.no-hover:active, .btn-primary.no-hover:hover
 {
 	background-color: #16181c !important;
->>>>>>> Stashed changes
 }
 
 .btn-group .form-inline fieldset .btn.btn-white {
@@ -242,7 +238,6 @@ html
   margin-right: 5px;
 }
 
-<<<<<<< Updated upstream
 .btn-group > .btn,
 .btn-group > .btn + .btn,
 .btn-group > .btn:first-child {
@@ -290,10 +285,10 @@ html
 }
 
 .breadcrumbs {
-  border-radius: 0 !important;
-  background-color: #2d3035 !important;
-  padding: 10px !important;
-=======
+    border-radius: 0 !important;
+    background-color: #2d3035 !important;
+    padding: 10px !important;
+}
 .btn-group > .btn, .btn-group > .btn + .btn, .btn-group > .btn:first-child {
 	margin-right: 5px !important;
 }
@@ -344,13 +339,11 @@ html
 	border-radius:    0 !important;
 	background-color: #2d3035 !important;
 	padding:          10px !important;
->>>>>>> Stashed changes
 }
 
 .breadcrumbs a,
 .breadcrumb > li,
 .breadcrumb > li.active,
-<<<<<<< Updated upstream
 .breadcrumbs .nav-search-icon {
   color: white !important;
 }
@@ -443,9 +436,9 @@ html
 }
 
 .widget-body .table-striped > tbody > tr {
-  /*background-color: #22252a !important;*/
-  background-color: transparent !important;
-=======
+    /*background-color: #22252a !important;*/
+    background-color: transparent !important;
+}
 .breadcrumbs .nav-search-icon
 {
 	color: white !important
@@ -564,12 +557,10 @@ html
 {
 	/*background-color: #22252a !important;*/
 	background-color: transparent !important;
->>>>>>> Stashed changes
 }
 
 .table-bordered > tbody > tr > td,
 .table-bordered > tbody > tr > th,
-<<<<<<< Updated upstream
 .widget-body .table td {
   border: 1px solid #3c3c3c !important;
   padding: 10px 15px;
@@ -599,10 +590,10 @@ html
 }
 
 .widget-body .table-responsive {
-  background-color: #3c3c3c !important;
-  color: #4a4a4a !important;
-  border: 0px solid transparent !important;
-=======
+    background-color: #3c3c3c !important;
+    color: #4a4a4a !important;
+    border: 0px solid transparent !important;
+}
 .widget-body .table td,
 .widget-main .table td
 {
@@ -649,7 +640,6 @@ html
 	background-color: #3c3c3c !important;
 	color:            #4a4a4a !important;
 	border:           0px solid transparent !important;
->>>>>>> Stashed changes
 }
 /*
 .widget-body .table-striped > tbody > tr:nth-of-type(odd)
@@ -657,7 +647,6 @@ html
 	background-color: transparent !important
 }
 */
-<<<<<<< Updated upstream
 .widget-body .table-striped > tbody > tr:hover {
   background-color: #3c3c3c !important;
 }
@@ -898,10 +887,9 @@ span.dependency_unmet {
 }
 
 .profile-activity .thumbicon {
-  border-radius: 100% !important;
-  position: relative;
-=======
-
+    border-radius: 100% !important;
+    position: relative;
+}
 .widget-body .table-striped > tbody > tr:hover,
 .widget-main .table-striped > tbody > tr:hover
 {
@@ -1168,12 +1156,10 @@ span.dependency_unmet
 {
 	border-radius: 100% !important;
 	position: relative;
->>>>>>> Stashed changes
 }
 
 .profile-activity .thumbicon::before,
 .skin-3 .sidebar-toggle > .ace-icon::before {
-<<<<<<< Updated upstream
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1227,7 +1213,6 @@ a {
   margin-right: -1px;
   line-height: 18px;
   position: relative;
-=======
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1288,7 +1273,6 @@ a
 	margin-right:     -1px;
 	line-height:      18px;
 	position:         relative;
->>>>>>> Stashed changes
 }
 
 .form-control,
@@ -1297,7 +1281,6 @@ input,
 .form-inline .input-sm,
 textarea.form-control,
 input.form-control,
-<<<<<<< Updated upstream
 .dropzone {
   background-color: #22252a !important;
   color: #fff !important;
@@ -1345,8 +1328,8 @@ a i {
 }
 
 .sidebar.compact .nav-list > li > a > .menu-icon {
-  color: #fff !important;
-=======
+    color: #fff !important;
+}
 .dropzone
 {
 	background-color: #22252a !important;
@@ -1405,7 +1388,6 @@ a i
 .sidebar.compact .nav-list > li > a > .menu-icon
 {
 	color: #fff !important;
->>>>>>> Stashed changes
 }
 
 /*.nav-list:hover, .skin-3 .nav-list > li:hover, .skin-3 .nav-list > li > a:hover, .skin-3 .nav-list > li.active > a:hover
@@ -1415,7 +1397,6 @@ a i
 
 .skin-3 .nav-list > li.open::before, .skin-3 .nav-list > li:hover::before,
 .skin-3 .nav-list li.active > a::before,
-<<<<<<< Updated upstream
 .skin-3 .nav-list > li.active::before,
 .skin-3 .nav-list > li.active + li::before {
   display: none;
@@ -1443,9 +1424,9 @@ a i
 
 .pager > li > a,
 .pagination > li > a {
-  background-color: #282828 !important;
-  border-color: #434343 !important;
-=======
+    background-color: #282828 !important;
+    border-color: #434343 !important;
+}
 .skin-3 .nav-list > li.active::before, .skin-3 .nav-list > li.active + li::before
 {
 	display: none;
@@ -1481,13 +1462,11 @@ a i
 {
 	background-color: #282828 !important;
 	border-color:     #434343 !important;
->>>>>>> Stashed changes
 }
 
 .pager > li.disabled > a,
 .pager > li.disabled > a:hover,
 .pagination > li.disabled > a,
-<<<<<<< Updated upstream
 .pagination > li.disabled > a:hover {
   color: #4a4a4a !important;
 }
@@ -1552,8 +1531,8 @@ code {
   color: #e8e8e8;
 }
 .status-90-bg {
-  background-color: #e8e8e8;
-=======
+    background-color: #e8e8e8;
+}
 .pagination > li.disabled > a:hover
 {
 	color:	#4a4a4a !important;
@@ -1572,5 +1551,4 @@ code {
 .alert.alert-success .btn-group a.btn.btn-primary {
 	background-color: orange !important;
 	text-shadow: 0 0 10px brown !important;
->>>>>>> Stashed changes
 }
