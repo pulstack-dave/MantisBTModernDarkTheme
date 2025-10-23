@@ -9,7 +9,7 @@ html {
 }
 
 .nav-tabs > li.active > a {
-  border-top: 2px solid orange !important;
+  border-top: 2px solid #337ab7 !important;
 }
 
 .nav-tabs a {
@@ -82,7 +82,7 @@ html {
 .dropdown-menu li:hover > a,
 .dropdown-menu li > a:active,
 .dropdown-menu li > a:focus {
-  background-color: orange !important;
+  background-color: #337ab7 !important;
   color: #f0f0f0 !important;
   text-shadow: 0px 0px 10px brown;
 }
@@ -113,7 +113,7 @@ html
 
 .nav-tabs > li.active > a
 {
-	border-top: 2px solid orange !important
+	border-top: 2px solid #337ab7 !important
 }
 
 .nav-tabs a
@@ -187,7 +187,7 @@ html
 
 .dropdown-menu li.active:hover > a, .dropdown-menu li.active > a, .dropdown-menu li:hover > a, .dropdown-menu li > a:active, .dropdown-menu li > a:focus
 {
-	background-color: orange !important;
+	background-color: #337ab7 !important;
 	color:            #f0f0f0 !important;
 	text-shadow:      0px 0px 10px brown;
 }
@@ -214,7 +214,7 @@ html
 .btn.btn-white.btn-primary:hover,
 .btn-primary.focus,
 .btn-primary:focus {
-  background-color: orange !important;
+  background-color: #337ab7 !important;
   text-shadow: 0px 0px 10px brown !important;
 }
 
@@ -224,7 +224,7 @@ html
 }
 .btn-primary.focus, .btn-primary:focus
 {
-	background-color: orange !important;
+	background-color: #337ab7 !important;
 	text-shadow:      0px 0px 10px brown!important;
 }
 
@@ -264,11 +264,11 @@ html
 
 .footer-content {
   background-color: #282828 !important;
-  border-top: 1px dotted orange !important;
+  border-top: 1px dotted #337ab7 !important;
 }
 
 .label {
-  background-color: orange !important;
+  background-color: #337ab7 !important;
   color: white;
   padding: 3px 10px;
   border-radius: 15px;
@@ -276,11 +276,11 @@ html
 }
 
 .label:before {
-  border-right-color: orange !important;
+  border-right-color: #337ab7 !important;
 }
 
 .label.arrowed-in-right:after {
-  border-color: orange !important;
+  border-color: #337ab7 !important;
   border-right-color: transparent !important;
 }
 
@@ -311,12 +311,12 @@ html
 .footer-content
 {
 	background-color: #282828 !important;
-	border-top:       1px dotted orange !important
+	border-top:       1px dotted #337ab7 !important
 }
 
 .label
 {
-	background-color: orange !important;
+	background-color: #337ab7 !important;
 	color:            white;
 	padding:          3px 10px;
 	border-radius:    15px;
@@ -325,12 +325,12 @@ html
 
 .label:before
 {
-	border-right-color: orange !important
+	border-right-color: #337ab7 !important
 }
 
 .label.arrowed-in-right:after
 {
-	border-color:       orange !important;
+	border-color:       #337ab7 !important;
 	border-right-color: transparent !important
 }
 
@@ -353,7 +353,7 @@ html
 }
 
 .breadcrumbs .nav-recent {
-  color: orange !important;
+  color: #337ab7 !important;
   top: 23px !important;
 }
 .breadcrumbs .nav-search {
@@ -406,7 +406,7 @@ html
 }
 
 .widget-body .table a {
-  color: orange !important;
+  color: #337ab7 !important;
   font-weight: bold;
 }
 
@@ -450,7 +450,7 @@ html
 
 .breadcrumbs .nav-recent
 {
-	color: orange !important;
+	color: #337ab7 !important;
 	top:   23px !important;
 }
 .breadcrumbs .nav-search {
@@ -513,7 +513,7 @@ html
 .widget-body .table a,
 .widget-main .table a
 {
-	color:       orange !important;
+	color:       #337ab7 !important;
 	font-weight: bold;
 }
 
@@ -725,7 +725,7 @@ select {
 .nav-list a:hover .menu-text,
 .nav-list a:hover .menu-icon,
 .nav-list li.active a .menu-text {
-  color: orange !important;
+  color: #337ab7 !important;
 }
 
 .nav-list li.active > a:before,
@@ -734,7 +734,7 @@ select {
 .skin-3 .nav-list > li.active > a li.active > a:before {
   color: rgba(0, 0, 0, 0) !important;
   border-color: transparent !important;
-  border-right-color: orange !important;
+  border-right-color: #337ab7 !important;
 }
 
 .nav-list > li:before,
@@ -749,7 +749,7 @@ select {
 .skin-3 .nav-list > li:hover:before,
 .skin-3 .nav-list > li.active:before,
 .skin-3 .nav-list > li.active + li:before {
-  background-color: orange !important;
+  background-color: #337ab7 !important;
 }
 
 .skin-3 .sidebar.menu-min .nav-list > li > a > .menu-text {
@@ -761,7 +761,7 @@ select {
 }
 
 .skin-3 .nav-list > li.active {
-  border-color: orange !important;
+  border-color: #337ab7 !important;
   border-top-width: 1px;
   border-bottom-width: 1px;
 }
@@ -771,7 +771,7 @@ select {
 }
 
 .skin-3 .nav-list > li:hover + li.active {
-  border-top-color: orange !important;
+  border-top-color: #337ab7 !important;
 }
 
 .menu-icon {
@@ -784,7 +784,7 @@ select {
 }
 
 .arrow::after {
-  border-right-color: orange !important;
+  border-right-color: #337ab7 !important;
 }
 
 .menu-text {
@@ -795,7 +795,7 @@ select {
 .skin-3 .sidebar-toggle {
   background-color: inherit !important;
   border-color: #3c3c3c !important;
-  color: orange !important;
+  color: #337ab7 !important;
   border-bottom: 0 !important;
   padding: 20px 0 !important;
 }
@@ -803,8 +803,8 @@ select {
 .sidebar-toggle > .ace-icon,
 .skin-3 .sidebar-toggle > .ace-icon {
   background-color: #212326 !important;
-  border-color: orange !important;
-  color: orange !important;
+  border-color: #337ab7 !important;
+  color: #337ab7 !important;
   position: relative !important;
   width: 25px;
   height: 25px;
@@ -976,13 +976,13 @@ select
 .nav-list a:hover .menu-icon,
 .nav-list li.active a .menu-text
 {
-	color:            orange !important;
+	color:            #337ab7 !important;
 }
 
 .nav-list li.active > a:before, .skin-3 .nav-list > li li.active > a:before, .skin-3 .nav-list > li > a li.active > a:before, .skin-3 .nav-list > li.active > a li.active > a:before
 {
 	color:              rgba(0, 0, 0, 0) !important;
-	border-right-color: orange !important
+	border-right-color: #337ab7 !important
 }
 
 .nav-list > li:before,
@@ -998,7 +998,7 @@ select
 .skin-3 .nav-list > li.active:before,
 .skin-3 .nav-list > li.active + li:before
 {
-	background-color: orange !important
+	background-color: #337ab7 !important
 }
 
 .skin-3 .sidebar.menu-min .nav-list > li > a > .menu-text
@@ -1008,7 +1008,7 @@ select
 
 .skin-3 .nav-list > li.active
 {	
-	border-color: orange !important;
+	border-color: #337ab7 !important;
 	border-top-width: 1px;
 	border-bottom-width: 1px;
 }
@@ -1020,7 +1020,7 @@ select
 
 .skin-3 .nav-list > li:hover + li.active
 {
-	border-top-color: orange !important;
+	border-top-color: #337ab7 !important;
 }
 
 .menu-icon
@@ -1036,7 +1036,7 @@ select
 
 .arrow::after
 {
-	border-right-color: orange !important
+	border-right-color: #337ab7 !important
 }
 
 .menu-text
@@ -1048,7 +1048,7 @@ select
 {
 	background-color: inherit !important;
 	border-color:     #3c3c3c !important;
-	color:            orange !important;
+	color:            #337ab7 !important;
 	border-bottom:    0 !important;
 	padding:          20px 0 !important;
 }
@@ -1056,8 +1056,8 @@ select
 .sidebar-toggle > .ace-icon, .skin-3 .sidebar-toggle > .ace-icon
 {
 	background-color: #212326 !important;
-	border-color:     orange !important;
-	color:            orange !important;
+	border-color:     #337ab7 !important;
+	color:            #337ab7 !important;
 	position:         relative !important;
 	width:            25px;
 	height:           25px;
@@ -1181,7 +1181,7 @@ span.dependency_unmet
 }
 
 a {
-  color: orange !important;
+  color: #337ab7 !important;
 }
 
 .ace-nav > li.grey > a {
@@ -1196,7 +1196,7 @@ a {
 }
 
 .nav-tabs > li.active > a {
-  border-color: orange #2d3035 transparent !important;
+  border-color: #337ab7 #2d3035 transparent !important;
 }
 
 .nav-tabs {
@@ -1239,7 +1239,7 @@ a {
 
 a
 {
-	color: orange !important;
+	color: #337ab7 !important;
 }
 
 .ace-nav > li.grey > a
@@ -1255,7 +1255,7 @@ a
 
 .nav-tabs > li.active > a
 {
-	border-color: orange #2d3035 transparent !important;
+	border-color: #337ab7 #2d3035 transparent !important;
 }
 
 .nav-tabs
@@ -1392,7 +1392,7 @@ a i
 
 /*.nav-list:hover, .skin-3 .nav-list > li:hover, .skin-3 .nav-list > li > a:hover, .skin-3 .nav-list > li.active > a:hover
 {
-	border-color: orange!important;
+	border-color: #337ab7!important;
 }*/
 
 .skin-3 .nav-list > li.open::before, .skin-3 .nav-list > li:hover::before,
@@ -1482,7 +1482,7 @@ a i
 }
 
 .alert.alert-success .btn-group a.btn.btn-primary {
-  background-color: orange !important;
+  background-color: #337ab7 !important;
   text-shadow: 0 0 10px brown !important;
 }
 
@@ -1549,6 +1549,6 @@ code {
 }
 
 .alert.alert-success .btn-group a.btn.btn-primary {
-	background-color: orange !important;
+	background-color: #337ab7 !important;
 	text-shadow: 0 0 10px brown !important;
 }
